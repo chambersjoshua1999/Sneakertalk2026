@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
